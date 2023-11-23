@@ -1,2 +1,2 @@
-# Beytullah-s-ML-Projects
+# Beytullahs-ML-Projects
 Personal Projects
